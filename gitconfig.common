@@ -1,0 +1,10 @@
+[color]
+	ui = auto
+[cola]
+	textwidth = 71
+[push]
+	default = simple
+[diff]
+	renames = true
+#[filter "tabspace"]
+#  clean = expand --tabs=4 --initial
